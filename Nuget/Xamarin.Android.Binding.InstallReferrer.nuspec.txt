@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Xamarin.Android.Binding.InstallReferrer</id>
+    <version>2.2.0</version>
+    <title>Xamarin.Android.Binding.InstallReferrer</title>
+    <authors>Douglas Giovanella</authors>
+    <projectUrl>https://developer.android.com/google/play/installreferrer/library</projectUrl>
+    <repository type="git" url="https://github.com/DouglasGiovanella/Xamarin.Android.Binding.InstallReferrer" />
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A Google's InstallReferrer library binding for Xamarin Android</description>
+    <tags>xamarin, android, referrer, installreferrer</tags>
+	
+  </metadata>
+  <files>
+    <file src="../Xamarin.Android.Binding.InstallReferrer/bin/Release/Xamarin.Android.Binding.InstallReferrer.dll"
+          target="lib/MonoAndroid10/Xamarin.Android.Binding.InstallReferrer.dll" />
+  </files>  
+  
+</package>
