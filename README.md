@@ -1,4 +1,4 @@
-# Deprecation warning: Microsoft has now a official binding for this that also supports .Net Maui. https://www.nuget.org/packages/Xamarin.Google.Android.InstallReferrer
+# Deprecation warning: Microsoft has now a official binding for this that also supports .Net Maui. https://www.nuget.org/packages/Xamarin.Google.Android.InstallReferrer. This binding will not be updated anymore.
 
 # Xamarin.Android.Binding.InstallReferrer
 
